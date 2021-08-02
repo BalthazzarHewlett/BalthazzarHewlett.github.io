@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a cybersecurity enthusiast from Angamaly, Kerala, India
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+N.a
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[balthazzarhewlett55555@gmail.com](mailto:balthazzarhewlett55555@gmail.com)
